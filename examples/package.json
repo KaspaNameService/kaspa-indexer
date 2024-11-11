@@ -1,0 +1,13 @@
+{
+  "name": "kaspa-indexer-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "bun indexer.ts"
+  },
+  "dependencies": {
+    "kaspa-indexer": "^0.1.1",
+    "winston": "^3.16.0"
+  }
+}
